@@ -28,4 +28,6 @@ MorseCode.get("..")  // should return "I"
 
 All the test strings would contain valid Morse code, so you may skip checking for errors and exceptions. In C#, tests will fail if the solution code throws an exception, please keep that in mind. This is mostly because otherwise the engine would simply ignore the tests, resulting in a "valid" solution.
 
+Write your solution in the [MorseCodeDecoder.java](src/MorseCodeDecoder.java) file.
+
 Good luck!
