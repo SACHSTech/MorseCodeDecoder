@@ -55,6 +55,9 @@ public class MorseCodeDecoder {
         MORSE_CODE_MAP.put("--...", "7");
         MORSE_CODE_MAP.put("---..", "8");
         MORSE_CODE_MAP.put("----.", "9");
+        MORSE_CODE_MAP.put(".-.-.-", ".");
+        MORSE_CODE_MAP.put("--..--", ",");
+        MORSE_CODE_MAP.put("-.-.--", "!");
         MORSE_CODE_MAP.put("...---...", "SOS"); // Distress signal
     }
 
